@@ -20,7 +20,6 @@ dvc dag
 aws configure
 
 
-
 ### Json data demo in postman
 
 http://localhost:5000/predict
